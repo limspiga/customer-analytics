@@ -15,5 +15,6 @@ Nociones de lenguaje de programación: Python o R.
 4. Evaluar y elegir el mejor enfoque de segmentación
 5. Predicción de ingresos de clientes mediante regresión lineal
 6. Aprendizaje supervisado: predicción de la rotación de clientes
-7. Algoritmos de clasificación de ajuste fino
-8. Multiclass Classification Algorithms
+7. Más herramientas y técnicas para evaluar modelos de regresión (nuevo)
+8. Algoritmos de clasificación de ajuste fino
+9. Multiclass Classification Algorithms (extra)
